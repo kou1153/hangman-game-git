@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Hangman from "./Hangman"
+import Hangman from "./Hangman";
 
 function App() {
   return (

@@ -8,7 +8,7 @@ import img5 from "./images/05.png";
 import img6 from "./images/06.png";
 import img7 from "./images/07.png";
 import img8 from "./images/08.png";
-
+import './styles.css';
 
 class Hangman extends React.Component{
 
@@ -73,6 +73,7 @@ class Hangman extends React.Component{
         if(isGameOver) text = "You Lose"
 
         return(
+        <>
         <div className="container">
             <h1>HangMan Game</h1>
             <img src= {this.props.images[numWrong]} />
@@ -87,6 +88,7 @@ class Hangman extends React.Component{
             </div>
             <button className="reset" onClick = {() => this.resetGame()}>Reset Game</button>
         </div>
+        </>
         //numWrong cho ra 1 so decimal this.props.images se hien thi ra hinh anh thich hop voi numWrong trong array 
         //neu tra ve true hidden nut
         )
