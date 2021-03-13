@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kou1153/hangman-game-git/static/css/main.80ecbb95.chunk.css",
+    "main.js": "/kou1153/hangman-game-git/static/js/main.a5c78e02.chunk.js",
+    "main.js.map": "/kou1153/hangman-game-git/static/js/main.a5c78e02.chunk.js.map",
+    "runtime-main.js": "/kou1153/hangman-game-git/static/js/runtime-main.6b31e51b.js",
+    "runtime-main.js.map": "/kou1153/hangman-game-git/static/js/runtime-main.6b31e51b.js.map",
+    "static/js/2.f7a1cd99.chunk.js": "/kou1153/hangman-game-git/static/js/2.f7a1cd99.chunk.js",
+    "static/js/2.f7a1cd99.chunk.js.map": "/kou1153/hangman-game-git/static/js/2.f7a1cd99.chunk.js.map",
+    "static/js/3.17d32c1c.chunk.js": "/kou1153/hangman-game-git/static/js/3.17d32c1c.chunk.js",
+    "static/js/3.17d32c1c.chunk.js.map": "/kou1153/hangman-game-git/static/js/3.17d32c1c.chunk.js.map",
+    "index.html": "/kou1153/hangman-game-git/index.html",
+    "static/css/main.80ecbb95.chunk.css.map": "/kou1153/hangman-game-git/static/css/main.80ecbb95.chunk.css.map",
+    "static/js/2.f7a1cd99.chunk.js.LICENSE.txt": "/kou1153/hangman-game-git/static/js/2.f7a1cd99.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kou1153/hangman-game-git/static/media/background.a75be8e6.jpeg",
+    "static/media/logo.6ce24c58.svg": "/kou1153/hangman-game-git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b31e51b.js",
+    "static/js/2.f7a1cd99.chunk.js",
+    "static/css/main.80ecbb95.chunk.css",
+    "static/js/main.a5c78e02.chunk.js"
+  ]
+}
