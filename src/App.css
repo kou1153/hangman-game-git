@@ -1,0 +1,44 @@
+body{
+  background: url("./images/background.jpeg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  text-align: center;
+}
+
+.container h1{
+  font-size: 4rem;
+  font-weight: 100;
+  margin-bottom: 0.1rem;
+  margin-top: 0;
+}
+
+.Hangman-word{
+  letter-spacing: 1em;
+  margin: 0.1em -1em 0.2em 0;
+  font-size: 2rem;
+}
+
+.Hangman-btns{
+  text-align: center;
+  display: inline-block;
+  width: 270px;
+  margin-top: 0;
+}
+
+.Hangman-btns button{
+  font-size: 1rem;
+  cursor: pointer;
+  width: 30px;
+  margin: 2px 2px 2px 2px;
+  letter-spacing: 1px;
+  outline: none;
+  border-radius: 5px;
+  padding-top: 4px;
+  background-color:lightblue;
+}
+
+.Hangman-btns .reset{
+  width: 80px;
+}
